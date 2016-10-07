@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "卷首：中国科幻不需要“樱花情结”"
-date: 2016-09-07
+date: 2016-10-01
 categories:
   - 第九期
 description: 
