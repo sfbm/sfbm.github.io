@@ -44,4 +44,4 @@ image-sm: http://ww3.sinaimg.cn/mw690/7359a3efgw1f8kxu5rp5zj20m80yo47d.jpg
 
 （原文：[Your First Look at Arrival, the Adaptation of Ted Chiang’s Novella Story of Your Life](http://www.tor.com/2016/08/08/first-look-arrival-amy-adams-jeremy-renner-ted-chiang/) by Natalie Zutter）
 
-<iframe height=498 width=100% src='http://player.youku.com/embed/XMTY4NzgzMTA0NA==' frameborder=0 'allowfullscreen'="allowfullscreen"></iframe>
+<iframe height=498 width=100% src='http://player.youku.com/embed/XMTY4NzgzMTA0NA==' frameborder=0 allowfullscreen='allowfullscreen'></iframe>
