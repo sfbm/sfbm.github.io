@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卷首：我想要的只是一本好杂志罢了"
+title: "卷首-第一期：我想要的只是一本好杂志罢了"
 date: 2015-06-01
 categories:
   - 第一期
